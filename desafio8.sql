@@ -1,5 +1,4 @@
 /* 8 - Faça uma consulta que retorne três colunas, respectivamente, com os nomes 'A', 'Trybe' e 'eh', e com valores referentes a soma de '5 + 6', a string 'de', a soma de '2 + 8'.
-  👀 Observações técnicas
 Na primeira coluna, exiba a soma de 5 + 6 (essa soma deve ser realizada pelo SQL);
 Na segunda coluna deve haver a palavra "de";
 E por fim, na terceira coluna, exiba a soma de 2 + 8 (essa soma deve ser realizada pelo SQL);
